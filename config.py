@@ -62,6 +62,7 @@ USER_REPLY_TEXT = "❌Don't send me messages directly I'm only File Share bot!"
 
 ADMINS.append(OWNER_ID)
 ADMINS.append(1250450587)
+ADMINS.append(7379342788)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
